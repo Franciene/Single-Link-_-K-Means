@@ -1,0 +1,8 @@
+Indice Rand -  monkey5 = 0.6
+Indice Rand -  monkey6 = 0.764
+Indice Rand -  monkey7 = 0.871
+Indice Rand -  monkey8 = 0.834
+Indice Rand -  monkey9 = 0.828
+Indice Rand -  monkey10 = 0.823
+Indice Rand -  monkey11 = 0.822
+Indice Rand -  monkey12 = 0.818
